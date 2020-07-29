@@ -1,4 +1,4 @@
-<img src="./github_primary_15fps.gif">
+<img src="https://github.com/hashkazi00/hashkazi00/blob/master/github_primary_15fps.gif">
 
 <!--
 **hashkazi00/hashkazi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
