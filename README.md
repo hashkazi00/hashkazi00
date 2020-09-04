@@ -1,4 +1,6 @@
 <img src="https://github.com/hashkazi00/hashkazi00/blob/master/github_primary_15fps.gif" alt="Introduction">
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=hashkazi00  alt="View Counts"/></p>
+
 
 <!--
 **hashkazi00/hashkazi00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
